@@ -11,7 +11,7 @@ def prostie_chisla(chislo):
     return True
 
 
-spisok = [7, 17, 13, 19, 4, 8]
+spisok = 7, 17, 13, 19, 4, 8
 prostie = 0
 for s in spisok:
     if prostie_chisla(s):
